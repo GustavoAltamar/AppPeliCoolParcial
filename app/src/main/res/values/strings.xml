@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pelicool</string>
+    <string name="txt_pelicula">Nombre de la pelicula</string>
+    <string name="etxt_pelicula">Pelicula</string>
+    <string name="txt_director">Nombre del director</string>
+    <string name="etxt_director">Director</string>
+    <string name="txt_idioma">Idioma de la pelicula</string>
+    <string name="rb_1">Ingles</string>
+    <string name="rb_2">Español</string>
+    <string name="txt_genero">Genero de la pelicula</string>
+    <string name="btn_cancela">Cancelar</string>
+    <string name="btn_guarda">Guardar</string>
+    <string name="btn_lista">Lista de peliculas</string>
+    <string name="btn_inicio">Guardar peliculas</string>
+</resources>
